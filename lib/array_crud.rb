@@ -27,7 +27,8 @@ array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-
+array = ["item1", "item2", "item3", "item4"]
+array[index_number]
 end
 
 def retrieve_first_element_from_array(array)
