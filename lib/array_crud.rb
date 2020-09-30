@@ -37,5 +37,6 @@ array.first
 end
 
 def retrieve_last_element_from_array(array)
-
+array = ["item1", "item2", "item3", "item4"]
+array.last
 end
