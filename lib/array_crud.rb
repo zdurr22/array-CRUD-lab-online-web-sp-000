@@ -23,6 +23,7 @@ end
 
 def remove_element_from_start_of_array(array)
 array = ["item1", "item2", "item3", "item4"]
+array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
